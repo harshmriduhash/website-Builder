@@ -1,6 +1,6 @@
 # Web Container Integration with Claude AI API
 
-This is a lightweight web application inspired by [bolt.new](https://bolt.new), built to demonstrate the integration of **Claude AI Anthropics API** with **Web Container Technology by StackBlitz**. The project comprises a **TypeScript Express backend** and a **Vite React frontend**.
+This is a lightweight web application built to demonstrate the integration of **Claude AI Anthropics API** with **Web Container Technology by StackBlitz**. The project comprises a **TypeScript Express backend** and a **Vite React frontend**.
 
 ---
 
@@ -31,7 +31,7 @@ root/
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   https://github.com/Alkush-Pipania/G1.git
+   https://github.com/harshmriduhash/website-Builder
    ```
 
 2. Navigate to the project directory:```
